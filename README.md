@@ -1,4 +1,4 @@
-# Jesi
+# Jesi(ŋɔŋlɔdzesi)
 
 **A free, offline editor for writing and typesetting Ewe, Twi and Ga.**
 
