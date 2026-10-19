@@ -99,11 +99,13 @@ Full release notes are on each [release page](https://github.com/Psirdem/jesi-bu
 
 ## Privacy
 
-Jesi never connects to the internet. There's no account, no tracking and no telemetry. Fonts and the PDF engine are built in, and your files stay on your computer.
+Jesi never connects to the internet unless you ask it to check for updates, and it asks you first. There's no account, no tracking and no telemetry. Fonts and the PDF engine are built in, and your files stay on your computer.
 
 ## Updating
 
-Jesi doesn't update itself yet. To get a new version, download it from the [releases page](https://github.com/Psirdem/jesi-builds/releases) and install it over the old one. Your settings and files are kept. Click **Watch → Custom → Releases** at the top of this page to be told when a new version comes out.
+From version 0.2.0, Jesi updates itself when you ask: choose **Check for updates** in Settings, in **Help → About Jesi**, or in the Help menu. Jesi asks before going online, shows what's new, and installs the update with **Install and restart** once your work is saved. Updates are signed, and Jesi refuses one that isn't.
+
+On 0.1.0? Download 0.2.0 from the [releases page](https://github.com/Psirdem/jesi-builds/releases) and install it over the old one, once. Your settings and files are kept. Click **Watch → Custom → Releases** at the top of this page to be told when a new version comes out.
 
 ## Problems and suggestions
 
